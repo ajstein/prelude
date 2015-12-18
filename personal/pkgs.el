@@ -1,6 +1,8 @@
 (prelude-require-packages
  '(auth-password-store
    cl
+   helm
+   helm-projectile
    multi-term
    pass
    systemd
