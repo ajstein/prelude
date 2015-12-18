@@ -1,5 +1,6 @@
 (prelude-require-packages
- '(auth-password-store
+ '(4clojure
+   auth-password-store
    cl
    helm
    helm-projectile
