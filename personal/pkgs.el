@@ -3,4 +3,5 @@
    cl
    multi-term
    pass
+   systemd
    w3m))
