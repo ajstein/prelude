@@ -1,5 +1,6 @@
 (prelude-require-packages
  '(4clojure
+   auctex
    auth-password-store
    cl
    helm
