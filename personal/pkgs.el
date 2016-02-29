@@ -5,7 +5,9 @@
    cl
    helm
    helm-projectile
+   js2-mode
    multi-term
    pass
+   skewer-mode
    systemd
    w3m))
