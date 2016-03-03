@@ -1,5 +1,6 @@
 (prelude-require-packages
  '(4clojure
+   android-mode
    auctex
    auth-password-store
    cl
