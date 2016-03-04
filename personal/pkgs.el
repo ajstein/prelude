@@ -4,6 +4,7 @@
    auctex
    auth-password-store
    cl
+   cyberpunk-theme
    helm
    helm-projectile
    js2-mode
