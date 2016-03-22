@@ -7,8 +7,10 @@
    cyberpunk-theme
    helm
    helm-projectile
+   lfe-mode
    js2-mode
    multi-term
+   nodejs-repl
    pass
    skewer-mode
    systemd
