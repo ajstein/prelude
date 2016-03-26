@@ -5,6 +5,7 @@
    auth-password-store
    cl
    cyberpunk-theme
+   elpy
    helm
    helm-projectile
    lfe-mode
