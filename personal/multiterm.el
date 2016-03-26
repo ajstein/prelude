@@ -29,8 +29,8 @@ If you do not like default setup, modify it, with (KEY . COMMAND) format."
 
 (add-hook 'term-mode-hook
           (lambda ()
-            (add-to-list 'term-bind-key-alist '("M-[" . multi-term-prev))
-            (add-to-list 'term-bind-key-alist '("M-]" . multi-term-next))))
+            (add-to-list 'term-bind-key-alist '("A-M-[" . multi-term-prev))
+            (add-to-list 'term-bind-key-alist '("A-M-]" . multi-term-next))))
 
 (add-hook 'term-mode-hook
           (lambda ()
