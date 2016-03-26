@@ -10,6 +10,7 @@
    lfe-mode
    js2-mode
    multi-term
+   markdown-mode
    nodejs-repl
    pass
    skewer-mode
