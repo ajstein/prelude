@@ -2,6 +2,7 @@
  '(4clojure
    android-mode
    auctex
+   aurel
    auth-password-store
    cl
    cyberpunk-theme
@@ -15,5 +16,6 @@
    nodejs-repl
    pass
    skewer-mode
+   slime
    systemd
    w3m))
