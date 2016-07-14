@@ -48,7 +48,6 @@
                             ("C-c C-j"       . term-line-mode)
                             ("C-c C-k"       . term-char-mode)
                             ("C-a"           . term-send-home)
-                            ("A-M-'"         . multi-term)
                             ("A-M-["         . multi-term-prev)
                             ("A-M-]"         . multi-term-next)
                             ("C-e"           . term-send-esc)

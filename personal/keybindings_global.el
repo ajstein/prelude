@@ -31,8 +31,9 @@
 ;; Boston, MA 02110-1301, USA.
 
 ;;; Code:
+(global-set-key (kbd "M-[")   'previous-buffer)
 
-(global-set-key (kbd "M-[") 'previous-buffer)
+(global-set-key (kbd "M-]")   'next-buffer)
 
-(global-set-key (kbd "M-]") 'next-buffer)
+(global-set-key (kbd "A-M-'") 'multi-term)
 ;;; keybindings_global.el ends here
