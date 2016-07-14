@@ -22,3 +22,6 @@ session*
 tramp
 /var/pcache
 *#tramp
+anaconda-mode/
+ensime/
+smex-items
