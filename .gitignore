@@ -21,13 +21,10 @@ session*
 .cask
 tramp
 /var/pcache
-<<<<<<< HEAD
 *#tramp
 anaconda-mode/
 ensime/
 smex-items
-=======
 .emacs.desktop
 .emacs.desktop.lock
 network-security.data
->>>>>>> upstream-github/master
